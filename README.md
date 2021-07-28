@@ -8,8 +8,6 @@
 ## **Set Up Development Environment:**
 - Clone the repo and cd into it:
   ```
-   to add url 
-  ```
 - Install all Dependancies
   ```
    pipenv install 

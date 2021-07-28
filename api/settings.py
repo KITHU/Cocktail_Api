@@ -47,7 +47,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'drf_yasg',
     'api.src.authentication',
-    'api.src.cocktail'
+    'api.src.cocktail',
 ]
 
 SWAGGER_SETTINGS = {

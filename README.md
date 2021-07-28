@@ -1,9 +1,9 @@
+[![Build Status](https://travis-ci.com/KITHU/Cocktail_Api.svg?branch=develop)](https://travis-ci.com/KITHU/Cocktail_Api)
+[![Coverage Status](https://coveralls.io/repos/github/KITHU/Cocktail_Api/badge.svg?branch=develop)](https://coveralls.io/github/KITHU/Cocktail_Api?branch=develop)
 
 # **Cocktail-Api**
 ### **API Documentation**
-- Click [here]() to view swagger API documentation
-
-- Click [here]()  to view postman API documentation
+- Click [here](https://cocktailapiv1.herokuapp.com/) to view swagger API documentation
 
 ## **Set Up Development Environment:**
 - Clone the repo and cd into it:

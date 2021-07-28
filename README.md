@@ -1,5 +1,5 @@
 
-# **Cocktail-api**
+# **Cocktail-Api**
 ### **API Documentation**
 - Click [here]() to view swagger API documentation
 
